@@ -26,7 +26,7 @@ fp-info-cache
 *.csv
 
 # Backups
-DEP/dep-backups/*
+dep-backups/*
 
 # Output files
 DEP/output_files/*
