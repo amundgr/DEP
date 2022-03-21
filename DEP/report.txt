@@ -1,0 +1,684 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'J6:Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'J4:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'J2:Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'J8:Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'J5:Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical'.
+Info: Processing symbol 'R6:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'U1:OPA2134:OPA2134UAE4'.
+Info: Processing symbol 'U2:PCM4201:PCM4201PWR'.
+Info: Processing symbol 'U3:Homemade:TinyFPGA BX'.
+Info: Processing symbol 'U4:CS4345:CS4345-CZZ'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U6:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U7:Homemade:Raspberry Pi Pico'.
+Connected C2 pin 1 to /Input/jack+.
+Add net Net-(C2-Pad2).
+Connected C2 pin 2 to Net-(C2-Pad2).
+Added C3 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_1206_3216Metric to 0.1uF.
+Updated C3 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/a61d17e4-9d41-4c02-89d4-93c2da43e08a.
+Updated C3 properties.
+Connected C3 pin 1 to GND.
+Connected C3 pin 2 to +5V.
+Added C4 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_1206_3216Metric to 10uF.
+Updated C4 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/dad19866-f4fd-4c05-a075-1e3f1282019e.
+Updated C4 properties.
+Connected C4 pin 1 to GND.
+Add net Net-(C4-Pad2).
+Connected C4 pin 2 to Net-(C4-Pad2).
+Added C5 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_1206_3216Metric to 0.1uF.
+Updated C5 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/d4de45b2-f8ef-49c0-acc1-648d96c67e24.
+Updated C5 properties.
+Connected C5 pin 1 to GND.
+Connected C5 pin 2 to Net-(C4-Pad2).
+Added C6 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_1206_3216Metric to 0F.
+Updated C6 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/2061dbba-31f8-452a-a902-addaba2a477e.
+Updated C6 properties.
+Add net Net-(C6-Pad1).
+Connected C6 pin 1 to Net-(C6-Pad1).
+Add net Net-(C6-Pad2).
+Connected C6 pin 2 to Net-(C6-Pad2).
+Added C7 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_1206_3216Metric to 0.1uF.
+Updated C7 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/d6c30ed7-74fc-4b1e-a50c-86d9bd89a6cb.
+Updated C7 properties.
+Add net Net-(C7-Pad1).
+Connected C7 pin 1 to Net-(C7-Pad1).
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_1206_3216Metric to 0.1uF.
+Updated C8 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/24237e2b-2403-4189-b268-0065882b4c19.
+Updated C8 properties.
+Connected C8 pin 1 to GND.
+Add net +3V3.
+Connected C8 pin 2 to +3V3.
+Added C9 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_1206_3216Metric to 10uF.
+Updated C9 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/d35d014b-83ca-4c34-9ce9-0d1422802725.
+Updated C9 properties.
+Connected C9 pin 1 to Net-(C7-Pad1).
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_1206_3216Metric to 10uF.
+Updated C10 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/6698d892-6a2d-43a0-ab0d-d5977548d1ea.
+Updated C10 properties.
+Connected C10 pin 1 to GND.
+Connected C10 pin 2 to +3V3.
+Added C11 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C11.
+Changed C11 value from C_1206_3216Metric to 100pF.
+Updated C11 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/c6de5783-51ab-4c92-82dc-dd6793118da3.
+Updated C11 properties.
+Add net /Input/Vin-.
+Connected C11 pin 1 to /Input/Vin-.
+Connected C11 pin 2 to GND.
+Added C12 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C12.
+Changed C12 value from C_1206_3216Metric to 0.022uF.
+Updated C12 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/77adab18-f880-47b5-89f2-03fd27d14993.
+Updated C12 properties.
+Add net /Input/Vin+.
+Connected C12 pin 1 to /Input/Vin+.
+Connected C12 pin 2 to /Input/Vin-.
+Added C13 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C13.
+Changed C13 value from C_1206_3216Metric to 100pF.
+Updated C13 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/a3e632ab-0d66-4e90-9fc0-8f265b62a467.
+Updated C13 properties.
+Connected C13 pin 1 to GND.
+Connected C13 pin 2 to /Input/Vin+.
+Added C14 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C14.
+Changed C14 value from C_1206_3216Metric to 1uF.
+Updated C14 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/1e6fe3c7-858f-400b-9bdb-58e5e39d3c57.
+Updated C14 properties.
+Connected C14 pin 1 to +5V.
+Connected C14 pin 2 to GND.
+Added C15 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C15.
+Changed C15 value from C_1206_3216Metric to 0.1uF.
+Updated C15 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/2805b882-4c0a-4c5c-835e-00258a4af6b3.
+Updated C15 properties.
+Connected C15 pin 1 to +5V.
+Connected C15 pin 2 to GND.
+Added C16 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C16.
+Changed C16 value from C_1206_3216Metric to 0.1uF.
+Updated C16 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/2db8c2d4-6d24-4c55-940e-85bd1d60b7b5.
+Updated C16 properties.
+Connected C16 pin 1 to GND.
+Add net Net-(C16-Pad2).
+Connected C16 pin 2 to Net-(C16-Pad2).
+Added C17 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C17.
+Changed C17 value from C_1206_3216Metric to 3.3uF.
+Updated C17 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/09c17152-3c3c-403e-b87c-fa5f93068cbf.
+Updated C17 properties.
+Connected C17 pin 1 to Net-(C16-Pad2).
+Connected C17 pin 2 to GND.
+Added C18 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C18.
+Changed C18 value from C_1206_3216Metric to 10uF.
+Updated C18 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/81644158-6fda-4c84-b7d6-dd66d1ef200b.
+Updated C18 properties.
+Add net Net-(C18-Pad1).
+Connected C18 pin 1 to Net-(C18-Pad1).
+Connected C18 pin 2 to GND.
+Added C19 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_1206_3216Metric to 3.3uF.
+Updated C19 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/7112a358-34b8-4989-8f0b-613d6dd33120.
+Updated C19 properties.
+Add net Net-(C19-Pad1).
+Connected C19 pin 1 to Net-(C19-Pad1).
+Add net Net-(C19-Pad2).
+Connected C19 pin 2 to Net-(C19-Pad2).
+Added C20 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_1206_3216Metric to 3.3uF.
+Updated C20 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/8be6e5d0-8f00-4170-9b86-9588f67b3100.
+Updated C20 properties.
+Add net Net-(C20-Pad1).
+Connected C20 pin 1 to Net-(C20-Pad1).
+Add net Net-(C20-Pad2).
+Connected C20 pin 2 to Net-(C20-Pad2).
+Added C21 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_1206_3216Metric to C_Polarized_US.
+Updated C21 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/f96b8a41-f72b-42f8-a9de-8f4868c8bbbf.
+Updated C21 properties.
+Add net /Output/PedalOut.
+Connected C21 pin 1 to /Output/PedalOut.
+Connected C21 pin 2 to GND.
+Added C22 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_1206_3216Metric to C_Polarized_US.
+Updated C22 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/936e495d-f002-48e6-a66b-f6dcbf74ce07.
+Updated C22 properties.
+Add net /Output/HeadphoneOut.
+Connected C22 pin 1 to /Output/HeadphoneOut.
+Connected C22 pin 2 to GND.
+Added C23 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_1206_3216Metric to 0.1uF.
+Updated C23 symbol association from  to /11bc122d-e950-4c40-ad5e-85700d72f242.
+Updated C23 properties.
+Add net Net-(C23-Pad1).
+Connected C23 pin 1 to Net-(C23-Pad1).
+Connected C23 pin 2 to GND.
+Added C24 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_1206_3216Metric to 0.1uF.
+Updated C24 symbol association from  to /8faeeeea-2e2c-4f82-8e13-7458cd6e4915.
+Updated C24 properties.
+Connected C24 pin 1 to Net-(C23-Pad1).
+Connected C24 pin 2 to GND.
+Added C25 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C25.
+Changed C25 value from C_1206_3216Metric to 4.7uF.
+Updated C25 symbol association from  to /d5b5e375-6419-4c63-af84-70cb6890723b.
+Updated C25 properties.
+Connected C25 pin 1 to +5V.
+Connected C25 pin 2 to GND.
+Added C26 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C26.
+Changed C26 value from C_1206_3216Metric to 4.7uF.
+Updated C26 symbol association from  to /bfa503dc-03a6-48c2-9b50-2941ea195450.
+Updated C26 properties.
+Connected C26 pin 1 to +3V3.
+Connected C26 pin 2 to GND.
+Added J1 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinSocket_1x02_P2.54mm_Vertical to AudioJack2.
+Updated J1 symbol association from  to /9f913f29-17d7-4034-a697-48e679961d28.
+Updated J1 properties.
+Added J2 (footprint 'Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from BarrelJack_GCT_DCJ200-10-A_Horizontal to Barrel_Jack_Switch.
+Updated J2 symbol association from  to /8a46c779-cffa-419f-9f6c-b162eb782a27.
+Updated J2 properties.
+Connected J2 pin 1 to Net-(C23-Pad1).
+Connected J2 pin 2 to GND.
+Connected J2 pin 3 to GND.
+Added J3 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinSocket_1x02_P2.54mm_Vertical to AudioJack2.
+Updated J3 symbol association from  to /4a96b940-e2a6-45e1-abf8-656c3841ba80.
+Updated J3 properties.
+Added J4 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J4.
+Changed J4 value from PinSocket_1x02_P2.54mm_Vertical to AudioJack2.
+Updated J4 symbol association from  to /b5894753-df86-43a6-b1f6-bdd81f921e5d.
+Updated J4 properties.
+Added J5 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical').
+Changed REF** reference designator to J5.
+Changed J5 value from PinSocket_1x14_P2.54mm_Vertical to Conn_01x14.
+Updated J5 symbol association from  to /d2a9346f-99a6-4287-8028-151aad4abf90/975017e3-bd8b-430f-84f8-4cf48c47268f.
+Updated J5 properties.
+Add net /FPGA/SCL.
+Connected J5 pin 1 to /FPGA/SCL.
+Add net /FPGA/SDA.
+Connected J5 pin 2 to /FPGA/SDA.
+Add net Net-(J5-Pad3).
+Connected J5 pin 3 to Net-(J5-Pad3).
+Add net Net-(J5-Pad4).
+Connected J5 pin 4 to Net-(J5-Pad4).
+Add net Net-(J5-Pad5).
+Connected J5 pin 5 to Net-(J5-Pad5).
+Add net Net-(J5-Pad6).
+Connected J5 pin 6 to Net-(J5-Pad6).
+Add net /FPGA/DATA.
+Connected J5 pin 7 to /FPGA/DATA.
+Add net /FPGA/FSYNC.
+Connected J5 pin 8 to /FPGA/FSYNC.
+Add net /FPGA/BCK.
+Connected J5 pin 9 to /FPGA/BCK.
+Add net /FPGA/SCKID.
+Connected J5 pin 10 to /FPGA/SCKID.
+Add net /FPGA/HPFD.
+Connected J5 pin 11 to /FPGA/HPFD.
+Add net /FPGA/~{RST}.
+Connected J5 pin 12 to /FPGA/~{RST}.
+Add net /FPGA/RATE.
+Connected J5 pin 13 to /FPGA/RATE.
+Connected J5 pin 14 to GND.
+Added J6 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical').
+Changed REF** reference designator to J6.
+Changed J6 value from PinSocket_1x14_P2.54mm_Vertical to Conn_01x14.
+Updated J6 symbol association from  to /d2a9346f-99a6-4287-8028-151aad4abf90/60f693af-1f33-4e1e-b8ab-2bf9cc3eaa3f.
+Updated J6 properties.
+Add net Net-(J6-Pad1).
+Connected J6 pin 1 to Net-(J6-Pad1).
+Connected J6 pin 2 to GND.
+Add net /FPGA/MCLK.
+Connected J6 pin 3 to /FPGA/MCLK.
+Add net /FPGA/~{DEM}/SCLK.
+Connected J6 pin 4 to /FPGA/~{DEM}/SCLK.
+Add net /FPGA/SDIN.
+Connected J6 pin 5 to /FPGA/SDIN.
+Add net /FPGA/LRCK.
+Connected J6 pin 6 to /FPGA/LRCK.
+Add net Net-(J6-Pad7).
+Connected J6 pin 7 to Net-(J6-Pad7).
+Add net Net-(J6-Pad8).
+Connected J6 pin 8 to Net-(J6-Pad8).
+Add net Net-(J6-Pad9).
+Connected J6 pin 9 to Net-(J6-Pad9).
+Add net Net-(J6-Pad10).
+Connected J6 pin 10 to Net-(J6-Pad10).
+Add net /FPGA/SPI_SCK.
+Connected J6 pin 11 to /FPGA/SPI_SCK.
+Add net /FPGA/SPI_CS.
+Connected J6 pin 12 to /FPGA/SPI_CS.
+Add net /FPGA/SPI_POCI.
+Connected J6 pin 13 to /FPGA/SPI_POCI.
+Add net /FPGA/SPI_CIPO.
+Connected J6 pin 14 to /FPGA/SPI_CIPO.
+Added J7 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical').
+Changed REF** reference designator to J7.
+Changed J7 value from PinSocket_1x20_P2.54mm_Vertical to Conn_01x20.
+Updated J7 symbol association from  to /b067b839-c5e8-4fa2-b725-1d0cc55d6473/dc68b2d9-e79a-4c93-a304-75907170aa41.
+Updated J7 properties.
+Add net Net-(J7-Pad1).
+Connected J7 pin 1 to Net-(J7-Pad1).
+Add net Net-(J7-Pad2).
+Connected J7 pin 2 to Net-(J7-Pad2).
+Add net Net-(J7-Pad3).
+Connected J7 pin 3 to Net-(J7-Pad3).
+Add net Net-(J7-Pad4).
+Connected J7 pin 4 to Net-(J7-Pad4).
+Add net Net-(J7-Pad5).
+Connected J7 pin 5 to Net-(J7-Pad5).
+Add net Net-(J7-Pad6).
+Connected J7 pin 6 to Net-(J7-Pad6).
+Add net Net-(J7-Pad7).
+Connected J7 pin 7 to Net-(J7-Pad7).
+Add net Net-(J7-Pad8).
+Connected J7 pin 8 to Net-(J7-Pad8).
+Add net Net-(J7-Pad9).
+Connected J7 pin 9 to Net-(J7-Pad9).
+Add net Net-(J7-Pad10).
+Connected J7 pin 10 to Net-(J7-Pad10).
+Add net Net-(J7-Pad11).
+Connected J7 pin 11 to Net-(J7-Pad11).
+Add net Net-(J7-Pad12).
+Connected J7 pin 12 to Net-(J7-Pad12).
+Add net Net-(J7-Pad13).
+Connected J7 pin 13 to Net-(J7-Pad13).
+Connected J7 pin 14 to /FPGA/SCL.
+Connected J7 pin 15 to /FPGA/SDA.
+Add net Net-(J7-Pad16).
+Connected J7 pin 16 to Net-(J7-Pad16).
+Add net Net-(J7-Pad17).
+Connected J7 pin 17 to Net-(J7-Pad17).
+Add net Net-(J7-Pad18).
+Connected J7 pin 18 to Net-(J7-Pad18).
+Add net Net-(J7-Pad19).
+Connected J7 pin 19 to Net-(J7-Pad19).
+Add net Net-(J7-Pad20).
+Connected J7 pin 20 to Net-(J7-Pad20).
+Added J8 (footprint 'Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical').
+Changed REF** reference designator to J8.
+Changed J8 value from PinSocket_1x20_P2.54mm_Vertical to Conn_01x20.
+Updated J8 symbol association from  to /b067b839-c5e8-4fa2-b725-1d0cc55d6473/dd2b0931-bd00-446a-929e-b0137e0a907b.
+Updated J8 properties.
+Add net Net-(J8-Pad1).
+Connected J8 pin 1 to Net-(J8-Pad1).
+Add net Net-(J8-Pad2).
+Connected J8 pin 2 to Net-(J8-Pad2).
+Add net Net-(J8-Pad3).
+Connected J8 pin 3 to Net-(J8-Pad3).
+Add net Net-(J8-Pad4).
+Connected J8 pin 4 to Net-(J8-Pad4).
+Add net Net-(J8-Pad5).
+Connected J8 pin 5 to Net-(J8-Pad5).
+Add net Net-(J8-Pad6).
+Connected J8 pin 6 to Net-(J8-Pad6).
+Add net Net-(J8-Pad7).
+Connected J8 pin 7 to Net-(J8-Pad7).
+Add net Net-(J8-Pad8).
+Connected J8 pin 8 to Net-(J8-Pad8).
+Add net Net-(J8-Pad9).
+Connected J8 pin 9 to Net-(J8-Pad9).
+Add net Net-(J8-Pad10).
+Connected J8 pin 10 to Net-(J8-Pad10).
+Add net Net-(J8-Pad11).
+Connected J8 pin 11 to Net-(J8-Pad11).
+Add net Net-(J8-Pad12).
+Connected J8 pin 12 to Net-(J8-Pad12).
+Add net Net-(J8-Pad13).
+Connected J8 pin 13 to Net-(J8-Pad13).
+Add net Net-(J8-Pad14).
+Connected J8 pin 14 to Net-(J8-Pad14).
+Add net Net-(J8-Pad15).
+Connected J8 pin 15 to Net-(J8-Pad15).
+Add net Net-(J8-Pad16).
+Connected J8 pin 16 to Net-(J8-Pad16).
+Connected J8 pin 17 to /FPGA/SPI_POCI.
+Connected J8 pin 18 to /FPGA/SPI_SCK.
+Connected J8 pin 19 to /FPGA/SPI_CS.
+Connected J8 pin 20 to /FPGA/SPI_CIPO.
+Added R1 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_1206_3216Metric to 10k.
+Updated R1 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/1ab3b223-0d6f-4d91-bdad-75a7399f289a.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(C4-Pad2).
+Connected R1 pin 2 to +5V.
+Added R2 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_1206_3216Metric to 10k.
+Updated R2 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/52572499-c64d-44b2-b97e-2999a22a4269.
+Updated R2 properties.
+Connected R2 pin 1 to GND.
+Connected R2 pin 2 to Net-(C4-Pad2).
+Added R3 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_1206_3216Metric to 0.
+Updated R3 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/3b86a7f5-447c-4789-8b6e-e8f10532c959.
+Updated R3 properties.
+Connected R3 pin 1 to Net-(C2-Pad2).
+Connected R3 pin 2 to Net-(C6-Pad1).
+Added R4 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_1206_3216Metric to 0.
+Updated R4 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/38cbbc04-4581-4b93-b5d1-a85fefe65a0d.
+Updated R4 properties.
+Connected R4 pin 1 to Net-(C6-Pad1).
+Connected R4 pin 2 to Net-(C6-Pad2).
+Added R5 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_1206_3216Metric to 2.49k.
+Updated R5 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/6e91f756-059b-420b-aa0d-4873fad4777b.
+Updated R5 properties.
+Add net Net-(R5-Pad1).
+Connected R5 pin 1 to Net-(R5-Pad1).
+Connected R5 pin 2 to Net-(C6-Pad2).
+Added C1 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Added R6 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_1206_3216Metric to 40.2k.
+Updated R6 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/f51c20af-cad5-436a-84c7-93fa89ac60c3.
+Updated R6 properties.
+Connected R6 pin 1 to Net-(C6-Pad2).
+Connected R6 pin 2 to /Input/Vin-.
+Changed REF** reference designator to C1.
+Added R7 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_1206_3216Metric to 2.49k.
+Updated R7 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/45194e0d-916b-45cd-96d4-925f2b54360e.
+Updated R7 properties.
+Connected R7 pin 1 to Net-(R5-Pad1).
+Add net Net-(R7-Pad2).
+Connected R7 pin 2 to Net-(R7-Pad2).
+Changed C1 value from C_1206_3216Metric to 10uF.
+Added R8 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_1206_3216Metric to 40.2k.
+Updated R8 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/64a13cd6-2cc0-4975-b6f2-5e408112efdc.
+Updated R8 properties.
+Connected R8 pin 1 to Net-(R7-Pad2).
+Connected R8 pin 2 to /Input/Vin+.
+Updated C1 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/7ec582fb-9419-44cb-863f-ef3f61f2d3b2.
+Added R9 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_1206_3216Metric to 0.
+Updated R9 symbol association from  to /d2a9346f-99a6-4287-8028-151aad4abf90/ebdf307a-ff7b-4aad-b36b-38753355edb6.
+Updated R9 properties.
+Connected R9 pin 1 to +3V3.
+Connected R9 pin 2 to Net-(J6-Pad1).
+Updated C1 properties.
+Added R10 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R10.
+Changed R10 value from R_1206_3216Metric to 10k.
+Updated R10 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/fc225a37-af17-4874-8e3f-0440309440c2.
+Updated R10 properties.
+Connected R10 pin 1 to GND.
+Connected R10 pin 2 to Net-(C19-Pad2).
+Add net GND.
+Added R11 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_1206_3216Metric to 10k.
+Updated R11 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/f7e5e4c7-b741-4cb8-9107-5f8dcf74edfa.
+Updated R11 properties.
+Connected R11 pin 1 to GND.
+Connected R11 pin 2 to Net-(C20-Pad2).
+Connected C1 pin 1 to GND.
+Added R12 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_1206_3216Metric to 470.
+Updated R12 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/a7e6d3c2-26e5-49e4-b49b-a2dc36ae487a.
+Updated R12 properties.
+Connected R12 pin 1 to Net-(C19-Pad2).
+Connected R12 pin 2 to /Output/PedalOut.
+Add net +5V.
+Added R13 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_1206_3216Metric to 470.
+Updated R13 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/6fa3afc0-7d7a-4f7d-b47e-cad0b40dd304.
+Updated R13 properties.
+Connected R13 pin 1 to Net-(C20-Pad2).
+Connected R13 pin 2 to /Output/HeadphoneOut.
+Connected C1 pin 2 to +5V.
+Added U1 (footprint 'OPA2134:OPA2134UAE4').
+Changed REF** reference designator to U1.
+Changed U1 value from D8 to OPA2134.
+Updated U1 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/9b8df7fd-365e-4326-b97d-ff927f48457f.
+Updated U1 properties.
+Connected U1 pin 1 to Net-(C6-Pad2).
+Connected U1 pin 2 to Net-(C4-Pad2).
+Connected U1 pin 3 to Net-(C6-Pad1).
+Connected U1 pin 4 to GND.
+Connected U1 pin 5 to Net-(R5-Pad1).
+Connected U1 pin 6 to Net-(C4-Pad2).
+Connected U1 pin 7 to Net-(R7-Pad2).
+Connected U1 pin 8 to +5V.
+Added C2 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Added U2 (footprint 'PCM4201:PCM4201PWR').
+Changed REF** reference designator to U2.
+Changed U2 value from PW16 to PCM4201PWR.
+Updated U2 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/e1424415-f578-4e7a-a5cf-187c9df03435.
+Updated U2 properties.
+Connected U2 pin 1 to /Input/Vin+.
+Connected U2 pin 2 to /Input/Vin-.
+Connected U2 pin 3 to GND.
+Connected U2 pin 4 to +5V.
+Connected U2 pin 5 to /FPGA/RATE.
+Connected U2 pin 6 to +3V3.
+Connected U2 pin 7 to /FPGA/~{RST}.
+Connected U2 pin 8 to /FPGA/HPFD.
+Connected U2 pin 9 to /FPGA/DATA.
+Connected U2 pin 10 to /FPGA/FSYNC.
+Connected U2 pin 11 to /FPGA/BCK.
+Connected U2 pin 12 to /FPGA/SCKID.
+Connected U2 pin 13 to +3V3.
+Connected U2 pin 14 to GND.
+Connected U2 pin 15 to GND.
+Connected U2 pin 16 to Net-(C7-Pad1).
+Changed REF** reference designator to C2.
+Added U3 (footprint 'Homemade:TinyFPGA BX').
+Changed REF** reference designator to U3.
+Changed U3 value from TinyFPGA BX to TinyFPGA_BX.
+Updated U3 symbol association from  to /d2a9346f-99a6-4287-8028-151aad4abf90/ec9fefa9-c956-4ba4-b42e-0ee72f185ee2.
+Updated U3 properties.
+Connected U3 pin 0 to GND.
+Connected U3 pin 1 to /FPGA/RATE.
+Connected U3 pin 2 to /FPGA/~{RST}.
+Connected U3 pin 3 to /FPGA/HPFD.
+Connected U3 pin 4 to /FPGA/SCKID.
+Connected U3 pin 5 to /FPGA/BCK.
+Connected U3 pin 6 to /FPGA/FSYNC.
+Connected U3 pin 7 to /FPGA/DATA.
+Connected U3 pin 8 to Net-(J5-Pad6).
+Connected U3 pin 9 to Net-(J5-Pad5).
+Connected U3 pin 10 to Net-(J5-Pad4).
+Connected U3 pin 11 to Net-(J5-Pad3).
+Connected U3 pin 12 to /FPGA/SDA.
+Connected U3 pin 13 to /FPGA/SCL.
+Connected U3 pin 14 to /FPGA/SPI_CIPO.
+Connected U3 pin 15 to /FPGA/SPI_POCI.
+Connected U3 pin 16 to /FPGA/SPI_CS.
+Connected U3 pin 17 to /FPGA/SPI_SCK.
+Connected U3 pin 18 to Net-(J6-Pad10).
+Connected U3 pin 19 to Net-(J6-Pad9).
+Connected U3 pin 20 to Net-(J6-Pad8).
+Connected U3 pin 21 to Net-(J6-Pad7).
+Connected U3 pin 22 to /FPGA/LRCK.
+Connected U3 pin 23 to /FPGA/SDIN.
+Connected U3 pin 24 to /FPGA/~{DEM}/SCLK.
+Connected U3 pin 25 to /FPGA/MCLK.
+Connected U3 pin 26 to GND.
+Connected U3 pin 27 to Net-(J6-Pad1).
+Changed C2 value from C_1206_3216Metric to 10uF.
+Added U4 (footprint 'CS4345:CS4345-CZZ').
+Changed REF** reference designator to U4.
+Changed U4 value from CIR-TSSOP-10 to CS4345-CZZ.
+Updated U4 symbol association from  to /6947a6b8-3b18-4bc8-bbb6-4bfebe32ab04/8c179912-1164-43fe-836c-b0b7ccc17726.
+Updated U4 properties.
+Connected U4 pin 1 to /FPGA/SDIN.
+Connected U4 pin 2 to /FPGA/~{DEM}/SCLK.
+Connected U4 pin 3 to /FPGA/LRCK.
+Connected U4 pin 4 to /FPGA/MCLK.
+Connected U4 pin 5 to Net-(C16-Pad2).
+Connected U4 pin 6 to Net-(C18-Pad1).
+Connected U4 pin 7 to Net-(C19-Pad1).
+Connected U4 pin 8 to GND.
+Connected U4 pin 9 to +5V.
+Connected U4 pin 10 to Net-(C20-Pad1).
+Updated C2 symbol association from  to /47988ee2-1526-44a7-939b-43195207f19b/af1c2ccf-c6e3-493a-b0bd-f6dd33eb0994.
+Added U5 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U5.
+Changed U5 value from SOT-23-5 to MAX1615xUK.
+Updated U5 symbol association from  to /512f2203-d69a-4164-b2f7-194f84b79100.
+Updated U5 properties.
+Connected U5 pin 1 to Net-(C23-Pad1).
+Connected U5 pin 2 to GND.
+Connected U5 pin 3 to +5V.
+Connected U5 pin 4 to +5V.
+Connected U5 pin 5 to Net-(C23-Pad1).
+Updated C2 properties.
+Added U6 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U6.
+Changed U6 value from SOT-23-5 to MAX1615xUK.
+Updated U6 symbol association from  to /6507aca9-9f24-43e5-8950-130334588136.
+Updated U6 properties.
+Connected U6 pin 1 to Net-(C23-Pad1).
+Connected U6 pin 2 to GND.
+Connected U6 pin 3 to +3V3.
+Connected U6 pin 4 to GND.
+Connected U6 pin 5 to Net-(C23-Pad1).
+Add net /Input/jack+.
+Added U7 (footprint 'Homemade:Raspberry Pi Pico').
+Changed REF** reference designator to U7.
+Changed U7 value from Raspberry Pi Pico to Raspberry_Pi_Pico.
+Updated U7 symbol association from  to /b067b839-c5e8-4fa2-b725-1d0cc55d6473/17fb3b46-e259-47bd-a6ee-96f2eb05988b.
+Updated U7 properties.
+Connected U7 pin 0 to Net-(J7-Pad20).
+Connected U7 pin 1 to Net-(J7-Pad19).
+Connected U7 pin 2 to Net-(J7-Pad18).
+Connected U7 pin 3 to Net-(J7-Pad17).
+Connected U7 pin 4 to Net-(J7-Pad16).
+Connected U7 pin 5 to /FPGA/SDA.
+Connected U7 pin 6 to /FPGA/SCL.
+Connected U7 pin 7 to Net-(J7-Pad13).
+Connected U7 pin 8 to Net-(J7-Pad12).
+Connected U7 pin 9 to Net-(J7-Pad11).
+Connected U7 pin 10 to Net-(J7-Pad10).
+Connected U7 pin 11 to Net-(J7-Pad9).
+Connected U7 pin 12 to Net-(J7-Pad8).
+Connected U7 pin 13 to Net-(J7-Pad7).
+Connected U7 pin 14 to Net-(J7-Pad6).
+Connected U7 pin 15 to Net-(J7-Pad5).
+Connected U7 pin 16 to Net-(J7-Pad4).
+Connected U7 pin 17 to Net-(J7-Pad3).
+Connected U7 pin 18 to Net-(J7-Pad2).
+Connected U7 pin 19 to Net-(J7-Pad1).
+Connected U7 pin 20 to /FPGA/SPI_CIPO.
+Connected U7 pin 21 to /FPGA/SPI_CS.
+Connected U7 pin 22 to /FPGA/SPI_SCK.
+Connected U7 pin 23 to /FPGA/SPI_POCI.
+Connected U7 pin 24 to Net-(J8-Pad16).
+Connected U7 pin 25 to Net-(J8-Pad15).
+Connected U7 pin 26 to Net-(J8-Pad14).
+Connected U7 pin 27 to Net-(J8-Pad13).
+Connected U7 pin 28 to Net-(J8-Pad12).
+Connected U7 pin 29 to Net-(J8-Pad11).
+Connected U7 pin 30 to Net-(J8-Pad10).
+Connected U7 pin 31 to Net-(J8-Pad9).
+Connected U7 pin 32 to Net-(J8-Pad8).
+Connected U7 pin 33 to Net-(J8-Pad7).
+Connected U7 pin 34 to Net-(J8-Pad6).
+Connected U7 pin 35 to Net-(J8-Pad5).
+Connected U7 pin 36 to Net-(J8-Pad4).
+Connected U7 pin 37 to Net-(J8-Pad3).
+Connected U7 pin 38 to Net-(J8-Pad2).
+Connected U7 pin 39 to Net-(J8-Pad1).
+Warning: No net found for symbol J3 pin 1.
+Warning: No net found for symbol J4 pin 2.
+Warning: No net found for symbol U3 pin 28.
+Warning: No net found for symbol U3 pin 29.
+Warning: No net found for symbol J1 pin 1.
+Warning: No net found for symbol J3 pin 2.
+Warning: No net found for symbol J4 pin 1.
+Warning: No net found for symbol J1 pin 2.
+Error: J1 pad S not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Error: J1 pad T not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Error: J3 pad S not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Error: J3 pad T not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Error: J4 pad S not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Error: J4 pad T not found in Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+
+
+Info: Total warnings: 0, errors: 6.
